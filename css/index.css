@@ -1,0 +1,138 @@
+.lab{
+	background: deepskyblue;
+	color: black;
+	font-size:  36;
+	font-family: "微软雅黑";
+	word-spacing: 50px;
+	text-align: center;
+	position: relative;
+	border:1;
+	border-style:double;
+	border-color: deepskyblue; 
+}
+a:link{
+	color: black;
+	text-decoration: none;
+}
+a:visited{
+	color:black;
+	text-decoration: none;
+}
+#lab:hover{
+	background: white;
+    font-size:  36;
+	font-family: "微软雅黑";
+	word-spacing: 50px;
+	text-align: center; 
+}
+#top_background{
+	width: 100%;
+	height: 40%;
+}
+.right{
+	margin-right: 0%;
+	margin-top: 0%;
+	position: absolute;
+	right: 0%;
+	width: 30%;
+}
+#flash{
+	width: 100%;
+}
+#baidu{
+	width:100%;
+}
+.home{
+	position: absolute;
+	margin-top: 0%;
+	margin-left: 0%;
+	width: 95%;
+}
+.main{
+	position: absolute;
+	margin-top: 3%;
+	margin-left: 8%;
+	width: 60%;
+	background-color: white;
+}
+#button{
+	background-color: deepskyblue;
+	width: 125px;
+	height: 40px;
+	font-family: "微软雅黑";
+	font-size: 26;
+}
+#form{
+	width: 300px;
+	height:40px;
+	font-size: 28px; 
+	border-style: ridge;
+}
+.text1{
+	position: relative;
+	border:3;
+	border-style: double;
+	border-color: snow;
+}
+.text1:hover{
+	position: relative;
+	border:3;
+	border-color: goldenrod;
+	border-style: double;
+}
+.text2{
+	position: absolute;
+	margin-top:50%;
+	border:3;
+	border-style: double;
+	border-color: snow;
+}
+.text2:hover{
+	position: absolute;
+	margin-top: 50%;
+	border:3;
+	border-color: darkviolet;
+	border-style: double;
+}
+#date{
+	font-family: "微软雅黑";
+	font-size: 24;
+	background-color: coral;
+	width: 200px;
+	height: 50px;
+	text-align: center;
+	line-height: 50px;
+}
+#date:hover{
+	font-family: "微软雅黑";
+	font-size: 24;
+	background-color: indianred;
+	width: 200px;
+	height: 50px;
+				text-align: center;
+				line-height: 50px;
+				border:2;
+				border-color: mediumslateblue;
+			}
+			#title{
+				font-family: "微软雅黑";
+				font-size: 36;
+				text-decoration: underline;
+			}
+			#all{
+				color: green;
+			}
+			#all:hover{
+				color:green;
+				text-decoration: underline;
+			}
+			#all:visited{
+				color:green;
+			}
+			.footer{
+				position: absolute;
+				margin-top: 60%;
+				width: 100%;
+				text-align: center;
+				background-color: seagreen;
+			}
